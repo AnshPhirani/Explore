@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "734513454131",
+    "project_id": "explore-ansh",
+    "storage_bucket": "explore-ansh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734513454131:android:58c903847cf4c6c1c6d746",
+        "android_client_info": {
+          "package_name": "com.example.explore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734513454131-ev73dmobfpkbr6hpcl2kbq2bpd964s1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.explore",
+            "certificate_hash": "bce2a1a2fdeb65836ebfd130b1f3c89ec92b3556"
+          }
+        },
+        {
+          "client_id": "734513454131-3ar4gvg057i8vjhqf6et40vllv66k2fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWplWtIFfj8YKpYAONP0xjdKyo1hcWK7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734513454131-3ar4gvg057i8vjhqf6et40vllv66k2fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
